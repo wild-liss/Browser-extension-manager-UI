@@ -10,4 +10,4 @@ Available features:
 - Select their color theme
 
 [comment]: <> (<img src="/Users/admin/Desktop/study IT/javascript/browser extention manager UI/promo.gif"><img src="/Users/admin/Desktop/study IT/javascript/browser extention manager UI/promo.gif">)
-<img src="promo.gif">
+<img src="promo.gif" width="100%">
