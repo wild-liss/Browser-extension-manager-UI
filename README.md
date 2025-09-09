@@ -9,4 +9,5 @@ Available features:
 - Remove extensions from the list
 - Select their color theme
 
-![til](demo.gif)
+[comment]: <> (<img src="/Users/admin/Desktop/study IT/javascript/browser extention manager UI/promo.gif"><img src="/Users/admin/Desktop/study IT/javascript/browser extention manager UI/promo.gif">)
+<img src="promo.gif">
